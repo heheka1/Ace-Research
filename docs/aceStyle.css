@@ -1,0 +1,10 @@
+ body {
+ background: Indigo;
+    color: Black;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+section {
+    background: Gray;
+    width: 90%;
+    margin: auto;
+    padding:1em;
