@@ -8,8 +8,8 @@
     
     <xsl:output method="xml" indent="yes"/>
     <xsl:template match="/">
-        <xsl:variable name="aceColl" as="document-node()+" 
-            select="collection('../Ace-Research/htmlProcess/?select=*.html')"/>
+<!--        <xsl:variable name="aceColl" as="document-node()+" 
+            select="collection('../htmlProcess/?select=*.html')"/>-->
         <TEI>
             <teiHeader>
                 <fileDesc>
@@ -46,5 +46,10 @@
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="p">
+        <text>
+            <xsl:apply-templates/>
+        </text>
     </xsl:template>
 </xsl:stylesheet>
