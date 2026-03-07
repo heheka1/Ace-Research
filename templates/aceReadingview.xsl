@@ -7,9 +7,11 @@
     version="3.0">
     
     <xsl:output method="xml" indent="yes"/>
+    <xsl:mode on-no-match="shallow-copy"/>
     <xsl:template match="/">
 <!--        <xsl:variable name="aceColl" as="document-node()+" 
             select="collection('../htmlProcess/?select=*.html')"/>-->
+        
         <TEI>
             <teiHeader>
                 <fileDesc>
@@ -17,6 +19,11 @@
                         <title>
                             <xsl:apply-templates select="//head/title"/>/
                         </title>
+                        <author>
+                            <addName>
+                                <xsl:apply-templates select="//body/main/h1/p"/>
+                            </addName>
+                        </author>
                     </titleStmt>
                     <publicationStmt>
                         <p>Publication Information</p>
@@ -47,9 +54,16 @@
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-    <xsl:template match="p">
+    <xsl:template match="h2"> 
+    <docTitle>
+        <titlePart>
+            <xsl:apply-templates/>
+        </titlePart>
+    </docTitle>
+    </xsl:template>
+   <!-- <xsl:template match="p">
         <text>
             <xsl:apply-templates/>
-        </text>
-    </xsl:template>
+        </text>-->
+    <!--</xsl:template>-->
 </xsl:stylesheet>

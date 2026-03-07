@@ -1,7 +1,6 @@
  body {
- background: RebeccaPurple;
- background-image: url("acePic2.png");
-    color: black;
+ background: Gray;
+    color: indigo;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 section {
@@ -18,6 +17,12 @@ section {
     border-width: medium;
     border-style: solid;
     border-radius: 25px;
-    color: Gray;
+    color: white;
     font-family: "Lucida Console", "Courier New", monospace;
     }
+    
+    /*fig.acePic {
+    width: 25px;
+    height: 35px;
+    position: relative;*/
+}
