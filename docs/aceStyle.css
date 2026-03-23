@@ -8,21 +8,24 @@ section {
     width: 90%;
     margin: auto;
     padding:1em;
+    border: black;
+    border-width: thick;
+    border-style: solid;
+    border-radius: 25px;
     }
     
     .header {
     padding: 2em;
     background: indigo;
     border: black;
-    border-width: medium;
+    border-width: thick;
     border-style: solid;
     border-radius: 25px;
     color: white;
     font-family: "Lucida Console", "Courier New", monospace;
     }
     
-    /*fig.acePic {
-    width: 25px;
-    height: 35px;
-    position: relative;*/
+    img {
+    width: 40%;
 }
+  
