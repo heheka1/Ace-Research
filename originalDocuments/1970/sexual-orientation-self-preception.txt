@@ -1,0 +1,373 @@
+Sexual Orientation and Self.Perception 171
+sexual orientation self·attributions to see how well the first two variables would
+predict the third.
+The first step in this project was selecting the instruments by which these
+variables could be measured. For the outcome variable, self-attributions, the
+choice of measures was simple. We presented and explained Kinsey's 7-point
+scale and asked subjects where they would assign themselves. In addition, we
+asked subjects which of the following labels they would give to themselves if
+they had to choose-' 'straight, " . 'bisexual," or "gay." In fact, out of 185
+subjects, there was a perfect correspondence between Kinsey self-ratings and our
+three labels. All subjects who placed themselves on the first third of the Kinsey
+scale also labeled themselves . 'straight' '; all subjects who placed themselves on
+the middle third of the Kinsey scale labeled themselves "bisexual' '; and all
+subjects who placed themselves on the last third of the Kinsey scale called
+themselves . ·gay. " For simplicity, we performed all our analyses using the
+simpler, tripartite label measure.
+Selecting a suitable measure of the first input variable, gender characteris-
+tics, was made more complicated by recent advances in research on masculinity
+and femininity. In a review of this literature, Constantinople (1973) points out
+that past theorists and researchers thought of masculinity and femininity as oppo-
+site ends of a unidimensional continuum. One implication of a unidimensional
+construct is that to the degree one is more masculine, one must be less feminine,
+and vice versa. But internal analyses of masculinity-femininity scales in combi-
+nation with other data suggested that masculinity and femininity are not perfectly
+correlated. Instead, masculinity and femininity seem to operate as two separate
+dimensions; people can be low on both, high on both, or high on one and low on
+the other.
+Evidence is mounting rapidly that a two-dimensional concept of masculinity
+and femininity is more valid, accurate, and useful. Two large research programs
+are presently investigating the bidimensionality of masculinity and femininity
+(Bem, 1974; Spence & Helmreich, 1978). Both research projects have developed
+and validated bidimensional scales of gender attributes. For a variety of reasons
+which are tangential to our present discussion, we selected the Spence and
+Helmreich (1978) instrument, the Personal Attributes Questionnaire (PAQ) as
+the measure of gender characteristics in our initial research. The PAQ contains
+24 items asking prople about their behaviors, feelings, and personal characteris-
+tics. Of these items 8 form a masculinity scale and 8 form a femininity scale.
+Subjects' scores on each scale are compared to normative statistics and are coded
+as above or below the population median for both sexes on each scale. On the
+basis of these median splits, subjects are then classified into one of four gender
+attribute categories: traditional masculine (high score on the masculine scale and
+low on the feminine), traditional feminine (high on feminine, low on masculine),
+androgynous (high on both scales), or undifferentiated (low on both scales).
+172 Michael D. Storms
+For a measure of our second input variable, erotic fantasies, the literature
+provided us with no established instrument. Kinsey and his co-workers (Kinsey
+et al., 1948; Kinsey et al., 1953) are the only individuals who have done
+substantial research on erotic fantasies and sexual orientation, and they used a
+complicated interview methodology that would be impractical for our purposes.
+Before we could proceed any further, it was necessary to develop our own
+questionnaire measure of erotic fantasies.
+In considering how to construct an erotic fantasies scale, we noted the
+parallel between the Kinsey sexual orientation scale and past research on
+masculinity-femininity. The Kinsey unidimensional continuum of sexual prefer-
+ence was an earth-shaking conceptual breakthrough in its day. But now it may be
+outmoded in exactly the same way that old masculinity-femininity scales are
+outmoded. Heterosexuality and homosexuality, like masculinity and femininity,
+may be two separate dimensions.
+A two-dimensional conceptualization of erotic impulse has immediate intui-
+tive appeal. Just as in Spence and Helmreich's (1978) work, it suggests a matrix
+of four erotic orientation categories: heteroerotic (people who are high on
+heteroerotic fantasy and low on homoerotic fantasy), homoerotic (high on
+homoerotic fantasy, low on heteroerotic), ambierotic (high on both), and anerotic
+(low on both).
+A bidimensional construct of erotic orientation has at least two possible
+advantages over a unidimensional construct. First, a two-dimension matrix
+creates a category for asexual individuals, who do not fit anywhere on the Kinsey
+scale. Second, a two-dimensional system implies a different view of bisexual
+individuals. On a unidimensional scale a person loses degrees of one quality as
+he or she moves toward the other end of the scale; thus bisexuals on the Kinsey
+scale are seen as half heterosexual and half homosexual, or a compromise some-
+where between the two. But on a two-dimensional map, bisexuals are those
+individuals who are high on both homoerotic and heteroerotic orientation, not
+medium on both.
+In our own research, we have collected data that suggest that bisexuals are
+extremely high on both homoeroticism and heteroeroticism (Storms et al.,
+1977). We asked a class of 73 male and female college students to report the
+extent and frequency of their homoerotic and heteroerotic fantasies on two
+6-point scales (0 = none to 5 = very frequently). The II subjects who labeled
+themselves bisexual reported as much heteroerotic fantasy (4.27) as the 57
+heterosexuals (4.53), both groups reporting more than the 5 homosexual subjects
+(3.20).2 Similarly, the bisexuals reported as much homoerotic fantasy (4.36) as
+the homosexuals (4.80), both groups reporting more than the heterosexuals
+2 Significant at p < .05, by two-tailed I-tests using an error term based on the overall MS-within
+adjusted for each pair of unequal ns.
+Sexual Orientation and Self-Perception 173
+(1.67). It would be incorrect, given these data, to think of bisexual individuals as
+having moderate amounts of erotic fantasy somewhere between those of
+heterosexuals and homosexuals. Instead, bisexuals experience large amounts of
+both types of sexual fantasy, in concurrence with the notion that bisexuals are
+high on two separate dimensions of erotic orientation.
+Given the plausibility of separate dimensions for homoeroticism and
+heteroeroticism, we constructed a two-scale erotic fantasy questionnaire, called
+EROS (Erotic Response and Orientation Scales). Each scale on EROS described
+eight basic types of erotic fantasy experiences including, for example, thinking
+that another person is sexually attractive, thinking about having sex with another
+person, daydreaming about sex, and masturbating while thinking about sex. On
+one scale, each of the eight erotic items was described with men as the object of
+the fantasy (the androerotic scale). On the other scale, women were described as
+the object of the fantasy (the gynoerotic scale). On each item, subjects were
+asked how often they had had that erotic fantasy experience, from "never" to
+"almost daily. "
+Before EROS was used to test the self-attribution model, it was first sub-
+jected to a pilot study to ascertain its basic psychometric properties. EROS was
+administered to 70 college students (31 men and 39 women) in two lower-level
+psychology courses. Subjects' responses on each of the two scales were treated to
+Guttman Scalogram analyses. Those analyses first revealed that the most valid
+way of scoring each item was dichotomously, with a score of 0 for each item the
+subject reported never having experienced and a score of 1 for each item the
+subject reported having experienced at least occasionally. The Guttman analyses
+indicated that this way of scoring produced scales that were internally reliable
+(coefficients of reproducibility were .935 and. 917 for the androerotic and
+gynoerotic scales, respectively) and internally valid in the sense of being coher-
+ent and cumulative (coefficients of scalability were .701 and .713).
+Once we were assured of having internally reliable and valid scales, our
+next concern was how to use the scales to classify subjects into the four erotic
+orientation categories of heteroerotic, homoerotic, ambierotic, and anerotic.
+Again, following Spence and Helrnreich's (1978) lead, we calculated the overall
+medians on each scale by averaging the medians of female subjects and male
+subjects. This procedure produced a midpoint of 6.5 on the androerotic scale and
+5.5 on the gynoerotic scale. Female subjects who scored above the androerotic
+midpoint and below the gynoerotic midpoint, and male subjects who scored
+below the androerotic midpoint and above the gynoerotic midpoint, were
+classified as heteroerotic. Women below the androerotic and above the gynoero-
+tic midpoints, and men above the androerotic and below the gynoerotic mid-
+points, were classified as homoerotic. All subjects above both midpoints were
+classified as ambierotic, and all subjects below both midpoints were classified as
+anerotic.
+174 Michael D. Storms
+The distribution of subjects across the four erotic categories was calculated
+next and the results are presented in Figure I. The patterns thus produced were
+highly encouraging in that they closely match the Kinsey (Kinsey et al., 1948;
+Kinsey et al., 1953) data on the distribution of sexual orientations in the popula-
+tion. Kinsey reported that approximately 4% of the population is exclusively
+homosexual and EROS identified 4%-5% of our sample as homoerotic. They
+reported that approximately 60% of the population is exclusively heterosexual,
+and EROS identified 64% of our sample as heteroerotic. Finally, they reported
+that about 35% of the popUlation has a mixed heterosexual and homosexual
+orientation. The Kinsey studies did not provide data to distinguish between
+bisexuals and asexuals. If we assume that since asexuals would show no clear
+heterosexual or homosexual preference they may have been counted as bisexuals
+in the Kinsey research, then the Kinsey figure of 35% comes close to the total
+percentage of anerotics (5%) and arnbierotics (27%) identified by EROS.
+Since EROS appeared to have satisfactory internal psychometric properties
+and some indication of external validity, it was adopted as a tentative measure of
+erotic orientation for our preliminary study of sexual orientation self-attributions.
+The 70 EROS pilot subjects also received the other two key measures, the PAQ
+measure of gender characteristics and the self-attribution questions, and were
+included in the main study. But it was also desirable to increase the number of
+homosexual individuals in the main study. Therefore, an additional 115 subjects
+(55 men and 60 women) were recruited from campus gay student organizations.
+In summary, in the main study 185 college students (86 men and 99 women)
+were given a battery of scales designed to measure their gender characteristics,
+erotic fantasies, and sexual orientation self-attributions. The hypotheses to be
+tested were: (1) that subjects with inverted gender characteristics (i.e., feminine
+men and masculine women) would label themselves . 'gay" whereas subjects
+with noninverted gender characteristics would label themselves "straight"; and
+(2) that subjects with homoerotic fantasies would label themselves "gay"
+whereas subjects with heteroerotic fantasies would label themselves' 'straight. "
+To test the first hypothesis, that gender characteristics relate to self-
+attributions of sexual orientation, subjects' classifications on the PAQ were
+compared to their self-assigned sexual orientation labels in separate chi-square
+analyses for men and women. 3 As shown in the top part of Table I, no relation-
+ship was obtained between these two variables, X2(6) = 5.76, ns., and 6.95, ns.,
+for men and women respectively. For men, the percentage of gender-inverted
+(feminine) subjects who called themselves gay (42%) was slightly higher than the
+percentage of gender-appropriate (masculine) subjects who called themselves
+gay (36%); but overall, androgynous men were the most likely to ascribe the
+3 Due to the nonparametric nature of the PAQ, EROS, and self-attribution classification systems, all
+our analyses were limited to chi squares.
+Sexual Orientation and Self-Perception
+HOMOEROTIC
+FANTASY
+HOMOEROTIC
+(men: 4%)
+(women: 5%)
+ANEROTIC
+(men: 0%)
+(women: 10%)
+AMBIEROTIC
+(men: 30%)
+(women: 23%)
+HETEROEROTIC
+(men: 66%)
+(women: 62%)
+HETEROEROTIC
+FANTASY
+175
+Fig. I. Classification of erotic fantasy orientations: homoerotic fantasy = androerotic scale scores
+for men and gynoerotic scale scores for women; heteroerotic fantasy = gynoerotic scale scores for
+men and androerotic scale scores for women. The midpoint is based on the mean of men's and
+women's medians on each scale. Percentages shown are of the normative sample of 31 men and 39
+women.
+homosexual label to themselves (50%). For women, not one single gender-
+inverted (masculine) subject labeled herself gay.4
+To test the second hypothesis, that erotic fantasies relate to self-attributions
+of sexual orientation, subjects' EROS classifications were compared to their
+sexual orientation self-labels in separate chi-square analyses for men and women.
+As the bottom part of Table I shows, the degree of association between erotic
+fantasies and sexual orientation self-attributions was extremely high and in the
+predicted pattern. All the homoerotic men and 80% of the homoerotic women
+labeled themselves' 'gay. " All the heteroerotic men and 90% of the heteroerotic
+women labeled themselves "straight." Anerotic subjects, although there were
+very few of them, all labeled themselves' 'straight. " Finally, ambierotic subjects
+were considerably more divided across the three self-attribution categories. De-
+spite the ambiguity of the ambierotics, the total pattern produced highly signifi-
+cant chi squares for men and women, X2 (6) = 71.49 and 68.70, bothps < .001.
+It appears that for homoerotic and heteroerotic individuals, their erotic fan-
+tasies alone account almost totally for their sexual orientation self-attributions,
+and gender characteristics (at least as measured by the PAQ) are largely irrelevant.
+For ambierotic individuals, however, sexual fantasies do not account for their
+4 The apparent sex difference between androgynous men (who tended to label themselves "gay") and
+androgynous women (who tended to label themselves "straight") can be misleading. Some aspect
+of the sampling procedure, which was deliberately rigged to include more homosexuals, may have
+produced this difference.
+Table I. Cross-Tabulation of Gender Characteristics (PAQ) and Erotic Orientation (EROS) by Sexual Orientation
+Self-Attributions
+Percentage men's self-attributionsa Percentage women's self-attributionsa
+Straight Bisexual Gay Straight Bisexual Gay
+Gender characteristics
+Androgynous 33.3 (8) 16.7 (4) 50 (12) 54.1 (20) 18.9 (7) 27 (10)
+Feminine 47.4 (9) 10.5 (2) 42.1 (8) 77.8 (21) 11.1 (3) 11.1 (3)
+Masculine 57.1 (8) 7.1 (I) 35.7 (5) 75 (6) 25 (2) 0
+Undifferentiated 66.7 (14) 4.8 (I) 28.6 (6) 73.7 (14) 10.5 (2) 15.8 (3)
+Erotic orientations
+Ambierotic 15.8 (6) 23.7 (9) 60.5 (23) 45.5 (15) 33.3 (II) 21.2 (7)
+Heteroerotic 100 (33) 0 0 97.7 (43) 2.3 (I) 0
+Homoerotic 0 0 100 (12) 6.7 (I) 13.3 (2) 80 (12)
+Anerotic 100 (I) 0 0 100 (5) 0 0
+"Percentages are across rows; raw frequencies are in parentheses. Data represent total sample of 86 men and 99 women excluding missing
+observations from 2 men and 2 women on erotic orientation and 8 women on gender characteristics.
+...-..I
+01
+==;;'
+=-
+~
+~
+:ao
+3
+'"
+Sexual Orientation and Self-Perception 177
+self-attributions. At this point we suspected that perhaps ambierotic subjects
+made some use of gender characteristics information in determining their self-
+attributions, but that this relationship was obscured in the earlier overall analysis
+of PAQ scores. However, a supplementary chi-square analysis of PAQ scores
+and sexual orientation self-attributions for ambierotic subjects alone produced
+the same results as the earlier overall analysis-no relationship between gender
+characteristics and self-attributions.
+Current Status of the Sexual Orientation Self-Attribution Model
+Initially we proposed that people infer their sexual orientation from informa-
+tion about their gender characteristics and erotic fantasies. The data we have col-
+lected so far support half of that model.
+Clearly a strong association exists between erotic orientation and self-attri-
+buted sexual orientation. If an individual's erotic fantasies are predominantly
+oriented toward his or her own sex, that individual will think of himself or herself
+as gay (although perhaps with some reluctance or anxiety, given the current so-
+cial climate).
+On the other hand, if an individual experiences a nearly equal mix of
+fantasies about both sexes, that information is not sufficient to attribute sexual
+orientation, otherwise most ambierotics would label themselves bisexual. In our
+entire study, only 9 men (all of them ambierotic) and 14 women (11 of them
+ambierotic) chose the bisexual label. The reluctance to call oneself bisexual may
+stem from poorly defined roles, lifestyles, social institutions, and subcultures for
+bisexuals in our society. Although Kinsey and co-workers (Kinsey et at., 1948;
+Kinsey et at., 1953) would argue that most of us are, in fact, bisexual to some
+degree, we may experience considerable social pressure to make a more definite
+choice between homosexuality and heterosexuality.
+Some individuals who have strong ambierotic tendencies may accept the
+bisexual label, but most of them probably seek out additional information to
+resolve their dilemma. The present study provides no indication of what that
+additional information might be. Merely as speculation, we would suggest that
+actual sexual experiences may provide the key to understanding an ambierotic's
+choice of label. For a variety of reasons, perhaps many of them circumstantial,
+an ambierotic individual may accumulate a greater number of homosexual or
+heterosexual experiences. In turn, that may lead to a greater likelihood of form-
+ing affectional and social bonds with members of one sex or the other, and
+developing into a more established straight or gay lifestyle. Obviously, the
+collection of sexual experience data is a crucial step to take next in this research.
+178 Michael D. Storms
+The present data give no support to the hypothesis that gender characteris-
+tics infonnation plays a role in the self-attribution process, either for ambierotic
+individuals or for any of the other erotic orientation groups. It may be that the
+hypothesis is simply untrue, despite the abundant evidence that people believe
+homosexuality relates to gender inversion.
+On the other hand, it may be that the specific measure of gender characteris-
+tics used in this study, Spence and Helmreich's (1978) PAQ, does not reflect the
+type of gender characteristics infonnation that people perceive as relevant to
+sexual orientation. In fact, the items on the PAQ are rather subtle. They may not
+be perceived by subjects as related to gender characteristics, and they may be
+irrelevant to subjects' self-concepts of masculinity and femininity. When we
+selected the PAQ for our research, we may have failed to distinguish between
+gender attributes (or "objective" characteristics of masculinity and femininity)
+and sex-role identity (or self-perceptions of masculinity and femininity). In retro-
+spect, the PAQ is probably more related to the fonner construct while our model
+is more related to the latter.
+Nevertheless, the infonnation we gained from the PAQ is not wasted. It is
+interesting in its own right that this more objective measure of masculine and
+feminine attributes did not correspond to sexual orientation labels for any of our
+subjects. That is damaging empirical evidence against the broadly assumed rela-
+tionship between gender characteristics and sexual orientation. It will be
+paradoxical if future research shows that this assumption still plays a role in the
+self-perception process simply because the assumption is widely believed.
+A final comment is needed about the issue of causality in the self-attribution
+model. For the sake of exposition, we have discussed the model in tenns of
+inputs (sex-role identity and erotic fantasy infonnation) and outputs (sexual
+orientation self-attributions), which suggests a definite causal sequence. But as
+Byrne (1977) recently argued, human sexual development is probably cyclical.
+While sex-role identities and erotic fantasies may contribute to self-attributions,
+self-attributions in tum may influence the development and perception of sex-
+role identities and erotic fantasies. Furthennore, actual sexual experiences,
+which we have discussed very little in this paper, may be both an input variable
+affecting self-attributions and an output variable affected by self-attributions.
+Obviously there is a great deat of conceptual slippage among the definitions of
+gender characteristics, sex -role identity, erotic orientation, sexual orientation,
+and sexual behavior. Considerable research is required to distinguish among and
+show relationships between these constructs before any causal directions can be
+specified.
+Whatever patterns emerge from this research, one fact is clear. People in
+general are bound to be as uncertain about the meaning of sexual orientation as
+psychologists are. From that uncertainty, individuals will be fashioning self-
+Sexual Orientation and Self-Perception 179
+concepts that have enonnous impact on their lifestyles, subculture memberships,
+and roles in society.
+ACKNOWLEDGMENTS
+Much of the thinking behind this chapter, and the original research reported
+herein, was developed with the assistance of Craig Hill, Scott Lambers, and
+Margaret Stivers. Our efforts were also supported by the University of Kansas
+General Research Fund Grand 3313.
+References
+Bern, D. J. Self-perception: An alternative interpretation of cognitive dissonance phenomena.
+Psychological Review, 1967, 74, 183-200.
+Bern, S. L. The measure of psychological androgyny. Journal of Clinical and Consulting Psychol·
+ogy, 1974,42, 155-162.
+Bieber, I., et al. Homosexuality. New York: Random House, 1962.
+Byrne, D. Social psychology and the study of sexual behavior. Personality and Social Psychology
+Bulletin, 1977, 3, 3-30.
+Churchill, W. Homosexual behavior among males. New York: Hawthorn, 1967.
+Constantinople, A. Masculinity-femininity: An exception to a famous dictum? Psychological Bulle-
+tin, 1973, 5, 389-407.
+Freud, S. Collected papers (Ed. E. Jones). New York: Basic,1959.
+Humphreys, L. Tearoom trade. Chicago: Adline, 1970.
+Kelly, H. H. Attribution theory in social psychology. In D. Levine (Ed.), Nebraska Symposium on
+Motivation, 1967 (Vol. 15). Lincoln: University of Nebraska Press, 1967.
+Kinsey, A. c., Pomeroy, W. B., & Martin, C. E. Sexual behavior in the human male. Philadelphia:
+Saunders, 1948.
+Kinsey, A. c., Pomeroy, W. B., Martin, C. E., & Gebhard, P. Sexual behavior in the hU11U/n
+fe11U/le. Philadelphia: Saunders, 1953.
+Krafft-Ebing, R. von. Psychopathia sexualis (trans. H. E. Wedeck). New York: Putnam, 1965.
+Lehne, G. K. Homophobia among men. In D. Davis & R. Bramon (Eds.), The forty-nine percent
+majority: Readings on the male sex role. New York: Addison-Wesley, 1975.
+Levitt, E., & Klassen, A. Public attitudes toward homosexuality. Part of the 1970 national survey by
+the Institute for Sex Research. Journal of Homosexuality, 1974, I, 29-43.
+MacDonald, A. P. The importance of sex-role to gay liberation. Homosexual Counseling Journal,
+1974, I, 169-180.
+Money, J., & Tucker, P. Sexual signatures. Boston: Little, Brown, 1975.
+Morin, S. F., & Garfinkle, E. M. Male homophobia. Journal of Social Issues, 1978,34(1),28-42.
+Panton, J. H. A new MMPI scale for the identification of homosexuality. Journal of Clinical
+Psychology, 1960,16, 17-20.
+Reuben, D. Everything you always wanted to know about sex . .. but were afraid to ask. New York:
+Bantam, 1971.
+ISO Michael D. Storms
+Spence, J. T., & Helmreich, R. Psychological dimensions of masculinity and femininity: Their
+correlates and antecedents. Austin: University of Texas Press, 1978.
+Storms, M. D. Attitudes toward homosexuality and femininity in men. Journal of Homosexuality,
+1978,3, 257-263.
+Storms, M. D., Stivers, M. L., Lambers, S. M., & Hill, c. A. Attitudes toward and personal
+experience with homosexuality among college students. Unpublished manuscript, University of
+Kansas, Lawrence, Kansas, 1977.
+Terman, L. M., & Miles, C. C. Sex and personality: Studies in masculinity and femininity. New
+York: McGraw-Hili, 1936.
+Tripp, C. A. Homosexual matrix. New York: McGraw-Hili, 1975.
+Weinberg, G. Society and the healthy homosexual. Garden City, N.Y.: Anchor, 1972.
+Weinberg, M. S., & Williams, C. J. Male homosexuals. New York: Oxford University Press, 1974.
