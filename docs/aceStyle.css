@@ -3,6 +3,10 @@
     color: indigo;
     font-family: "Lucida Console", "Courier New", monospace;
 }
+
+a:link {
+  color: white;
+}
 /*  .sidebar,.content{
     background: LightGray;
     color: #fff;
