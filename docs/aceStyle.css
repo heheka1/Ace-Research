@@ -4,9 +4,10 @@
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
-div.link >> a:link {
+div.link a:link {
   color: white;
 }
+
 /*  .sidebar,.content{
     background: LightGray;
     color: #fff;
