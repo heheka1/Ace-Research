@@ -1,6 +1,6 @@
  body {
- background: Gray;
-    color: indigo;
+ background: indigo;
+    color: black;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
@@ -32,7 +32,7 @@ div.link a:link {
 */
 
 section {
-    background: LightGray;
+    background: Gray;
     width: 90%;
     margin: auto;
     padding:1em;
@@ -44,12 +44,12 @@ section {
     
     .header {
     padding: 2em;
-    background: indigo;
+    background: white;
     border: black;
     border-width: thick;
     border-style: solid;
     border-radius: 25px;
-    color: white;
+    color: indigo;
     font-family: "Lucida Console", "Courier New", monospace;
     }
     
@@ -113,5 +113,11 @@ document.getElementById("main").style.marginLeft ="250px";
 function closeNav() {
 document.getElementById ("mySidenav").style.width = "0";    
 document.getElementById("main").style.marginLeft = "0";    
+}
+
+button
+{
+background: indigo;
+color: white;
 }
 */
