@@ -32,7 +32,7 @@ div.link a:link {
 */
 
 section {
-    background: Gray;
+    background: white;
     width: 90%;
     margin: auto;
     padding:1em;
@@ -44,12 +44,12 @@ section {
     
     .header {
     padding: 2em;
-    background: white;
+    background: rgb(95, 11, 156);
     border: black;
     border-width: thick;
     border-style: solid;
     border-radius: 25px;
-    color: indigo;
+    color: darkgray;
     font-family: "Lucida Console", "Courier New", monospace;
     }
     
